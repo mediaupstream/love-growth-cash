@@ -102,9 +102,6 @@ h1 {
 #footer {
   margin-top:40px;
   text-align:center;
-  /*position:absolute;*/
-  /*bottom:14px;*/
-  /*left:16px;*/
   font-size:12px;
   opacity:0.7;
   -webkit-transition: opacity 0.2s linear;
@@ -148,34 +145,3 @@ body.theme-01 td.O            { color:#8fbe01 }
 body.theme-01 td.X            { color:#01a8c6 }
 body.theme-01 #menu li        { color:#0d667b }
 body.theme-01 .button         { color:#517304; border-color:#517304; }
-
-/* Theme 02 */
-body.theme-02                 { background-color:#fcf9f0 }
-body.theme-02 #menu-container { background:#5b605f }
-body.theme-02 td.O            { color:#5b605f }
-body.theme-02 td.X            { color:#ff5f12 }
-
-/* Theme 03 */
-body.theme-03                 { background-color:#dcedc0 }
-body.theme-03 #menu-container { background:#ff8b92 }
-body.theme-03 td.O            { color:#AED272 }
-body.theme-03 td.X            { color:#ff8b92 }
-
-/* Theme 04 */
-body.theme-04                 { background-color:#f0e2d4 }
-body.theme-04 #menu-container { background:#f9c478 }
-body.theme-04 td.O            { color:#f97978 }
-body.theme-04 td.X            { color:#f9c478 }
-
-/* Theme 05 */
-body.theme-05                 { background-color:#f2f2f2 }
-body.theme-05 #menu-container { background:#434f5b }
-body.theme-05 td.O            { color:#8ab839 }
-body.theme-05 td.X            { color:#212a3f }
-
-/* Theme 06 */
-body.theme-06                 { background-color:#fcffe3 }
-body.theme-06 #menu-container { background:#92a478 }
-body.theme-06 td.O            { color:#b8ffd3 }
-body.theme-06 td.X            { color:#ffc499 }
-
