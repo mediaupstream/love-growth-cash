@@ -402,7 +402,9 @@ var Triangle = function(o){
 
       blendMode: 'multiply',
       strokeWidth: 1.4,
-      closed: true
+      closed: true,
+      fullySelected: true,
+      selectedColor: '#888'
     })
 
     // Group our project together and center it inside the canvas
