@@ -1,0 +1,12 @@
+{
+  "name": "love-growth-cash",
+  "version": "1.0.0",
+  "description": "Love Growth Cash",
+  "homepage": "http://mediaupstream.github.io/love-growth-cash",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
